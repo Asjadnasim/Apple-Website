@@ -98,3 +98,5 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
 
 # npm install gsap @gsap/react
+
+# npm install three @react-three/drei @react-three/fiber
